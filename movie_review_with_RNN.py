@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
-import matplotlib.pyplot as plt
-import tensorflow as tf
 import numpy as np
-from scipy.spatial.distance import cdist
 
 from keras.models import Sequential
 from keras.layers import Dense, GRU, Embedding
