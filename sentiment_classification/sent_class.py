@@ -26,13 +26,16 @@ class QuestionDetector():
     def IsQuestion(self,sentence):
         if "?" in sentence:
             return True
-        tokens = self.tknzr.tokenize(sentence.lower())
-        if self.Question_Words_Set.intersection(tokens) == False:
-            return False
+        
         predicted = self.classifier.classify(self.__dialogue_act_features(sentence))
+        print(predicted)
         if predicted == 'whQuestion' or predicted == 'ynQuestion':
             return True
-         
+        
+        tokens = self.tknzr.tokenize(sentence.lower())
+        if self.Question_Words_Set.intersection(tokens) == False:
+            return False 
+        
         return False
 
 def test(sent):
