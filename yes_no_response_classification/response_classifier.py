@@ -39,23 +39,24 @@ X_train_counts=count_vect.fit_transform(X_train)
 X_train_tfidf = tfidf_transformer.fit_transform(X_train_counts)
 X_train_tfidf.toarray()
 
-def model():
+def get_model():
 
     from sklearn.svm import SVC
-    clf= SVC(kernel = 'linear', random_state = 0)
-    
+    model= SVC(kernel = 'linear', random_state = 0)
+    from sklearn.linear_model import LogisticRegression
+    #model= LogisticRegression(penalty = "l1", C = 1.25, class_weight = "balanced")
     '''
     from sklearn.neighbors import KNeighborsClassifier
-    clf = KNeighborsClassifier(n_neighbors=2, weights = 'distance')
+    model = KNeighborsClassifier(n_neighbors=2, weights = 'distance')
     '''
     
     '''
     from sklearn.naive_bayes import MultinomialNB
-    clf= MultinomialNB()
+    model= MultinomialNB()
     '''
     '''
     from sklearn.neighbors import KNeighborsClassifier
-    clf = KNeighborsClassifier(n_neighbors = 2, metric = 'minkowski', p = 2)
+    model = KNeighborsClassifier(n_neighbors = 2, metric = 'minkowski', p = 2)
     '''
     '''
     from sklearn.svm import SVC
@@ -65,31 +66,54 @@ def model():
                                     param_grid=tuned_parameters,
                                     cv=5, scoring='f1_weighted', verbose=1)
     '''
-    clf.fit(X_train_tfidf, y_train)
-clf.score(X_train_tfidf, y_train)
+    '''
+    from sklearn.ensemble import RandomForestClassifier
+    model = RandomForestClassifier(n_estimators=100, max_depth=3, random_state=0)
+    '''
+    model.fit(X_train_tfidf, y_train)
+    
+    return model
+
+model = get_model()
+
+#model.score(X_train_tfidf, y_train)
+
+def get_prediction(model):
 
 
-X_test_tfidf=count_vect.transform(X_test)
+    X_test_tfidf=count_vect.transform(X_test)
 
-y_pred=clf.predict(X_test_tfidf)
+    y_pred=model.predict(X_test_tfidf)
+    return y_pred
 
 
+y_pred = get_prediction(model)
 from sklearn.metrics import confusion_matrix,accuracy_score,recall_score,precision_score
-cm = confusion_matrix(y_test, y_pred)
-Accuracy_Score = accuracy_score(y_test, y_pred)
-Recall=recall_score(y_test, y_pred, average='weighted')
-Precision=precision_score(y_test, y_pred, average='weighted')
 
-'''
-with open('data/no.txt', 'rb') as f:
-    test1 = f.read()
-'''
+def get_matrices(y_pred,y_test):
+    
+    cm = confusion_matrix(y_test, y_pred)
+    Accuracy_Score = accuracy_score(y_test, y_pred)
+    Recall=recall_score(y_test, y_pred, average='weighted')
+    Precision=precision_score(y_test, y_pred, average='weighted')
+    return cm,Accuracy_Score,Recall,Precision
+
+cm,Accuracy_Score,Recall,Precision = get_matrices(y_pred,y_test)
+
 #test1=pd.read_csv('data/no.txt', encoding=result['encoding']) 
 
 def predict_response(response_query,model):
-    s1 = "nay"
-    response_query = s1
     cs1 = count_vect.transform([response_query])
     val = model.predict(cs1)
     predict_val = val.tolist()
     return predict_val
+
+
+with open('data/yes.txt', 'rb') as f:
+    test1 = f.readlines()
+
+out = []
+
+for i in test1:
+    out.append(predict_response(i,model))
+    
