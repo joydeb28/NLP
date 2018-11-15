@@ -14,7 +14,7 @@ word_dictionary = {}
 
 # Load and prepare data of the spam.csv file.
 def load_data():
-    df = pd.read_csv(file_name, sep=",")
+    df = pd.read_csv(file_name, sep=",",encoding='latin-1')
     x_loaded = df['v2']
     y_loaded = df['v1']
 
