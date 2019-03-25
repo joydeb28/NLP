@@ -2,7 +2,6 @@ import embeddings
 import numpy as np
 import argparse
 
-
 def cos_sim(a, b):
     return np.inner(a, b) / (np.linalg.norm(a) * (np.linalg.norm(b)))
 
