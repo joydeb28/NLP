@@ -4,7 +4,6 @@ import tensorflow as tf
 ELMO = "https://tfhub.dev/google/elmo/2"
 NNLM = "https://tfhub.dev/google/nnlm-en-dim128/1"
 
-
 def execute(tensor):
     with tf.Session() as sess:
         sess.run(tf.global_variables_initializer())
