@@ -1,0 +1,861 @@
+can O
+you O
+put O
+on O
+Like B-album
+A I-album
+Hurricane I-album
+by O
+Paul B-artist
+Landers I-artist
+
+Play O
+The B-album
+Happy I-album
+Blues I-album
+by O
+Ronnie B-artist
+Wood I-artist
+. O
+
+Play O
+the O
+newest B-sort
+melody B-music_item
+on O
+Last B-service
+Fm I-service
+by O
+Eddie B-artist
+Vinson I-artist
+. O
+
+Use O
+Groove B-service
+Shark I-service
+to O
+play O
+music O
+
+Please O
+play O
+something O
+good B-sort
+from O
+U-roy B-artist
+. O
+Any O
+song B-music_item
+from O
+1975 B-year
+on O
+Zvooq B-service
+will O
+do. O
+
+Play O
+a O
+symphony B-music_item
+from O
+2013 B-year
+. O
+
+Let O
+me O
+hear O
+the O
+good B-sort
+songs O
+from O
+James B-artist
+Iha I-artist
+
+Play O
+my O
+inventive B-playlist
+playlist O
+
+I O
+want O
+to O
+play O
+music O
+from O
+iheart B-service
+
+Play O
+Subconscious B-album
+Lobotomy I-album
+from O
+Jennifer B-artist
+Paull I-artist
+. O
+
+I O
+want O
+to O
+hear O
+a O
+seventies B-year
+sound B-music_item
+track I-music_item
+. O
+
+play O
+a O
+john B-artist
+maher I-artist
+track B-music_item
+
+Please O
+play O
+something O
+from O
+Dihan B-artist
+Slabbert I-artist
+that's O
+on O
+the O
+top B-sort
+fifty I-sort
+
+Please O
+play O
+something O
+catchy B-playlist
+on O
+Youtube B-service
+
+Play O
+something O
+from O
+2004 B-year
+by O
+Imogen B-artist
+Heap I-artist
+on O
+spotify B-service
+
+Play O
+seventies B-year
+music O
+please. O
+
+Play O
+music O
+from O
+the O
+artist O
+sean B-artist
+yseult I-artist
+and O
+sort O
+it O
+through O
+top-50 B-sort
+
+Play O
+anything O
+Jd B-artist
+Natasha I-artist
+did O
+in O
+the O
+thirties B-year
+
+Play O
+music O
+off O
+Netflix B-service
+. O
+
+nineties B-year
+songs O
+on O
+Zvooq B-service
+
+Open O
+itunes B-service
+and O
+play O
+Ben B-artist
+Burnley I-artist
+Ready B-album
+To I-album
+Die I-album
+
+Play O
+an O
+ep B-music_item
+by O
+Zak B-artist
+Starkey I-artist
+. O
+
+Play O
+an O
+album B-music_item
+from O
+Nithyasree B-artist
+Mahadevan I-artist
+. O
+
+I O
+want O
+to O
+listen O
+to O
+something O
+on O
+Youtube B-service
+
+Start O
+playing O
+something O
+from O
+Iheart B-service
+
+Play O
+Trance B-playlist
+Life I-playlist
+on O
+Zvooq B-service
+. O
+
+Find O
+and O
+play O
+a O
+concerto B-music_item
+on O
+Zvooq B-service
+from O
+1978 B-year
+by O
+Ginger B-artist
+Pooley I-artist
+
+Play O
+All B-track
+Things I-track
+Must I-track
+Pass I-track
+. O
+
+I O
+want O
+to O
+hear O
+music O
+from O
+Allen B-artist
+Toussaint I-artist
+from O
+the O
+fifties B-year
+
+Turn O
+on O
+Last B-service
+Fm I-service
+
+Play O
+a O
+song B-music_item
+by O
+Rahsaan B-artist
+Patterson I-artist
+. O
+
+play O
+Femme B-track
+Fatale I-track
+by O
+Bonobo B-artist
+
+Play O
+some O
+anneliese B-artist
+van I-artist
+der I-artist
+pol I-artist
+from O
+the O
+thirties B-year
+on O
+Groove B-service
+Shark I-service
+
+I O
+want O
+to O
+listen O
+to O
+an O
+ep B-music_item
+from O
+1998 B-year
+. O
+
+Play O
+Paul B-artist
+Mccartney I-artist
+
+play O
+Jill B-album
+Sobule I-album
+album B-music_item
+
+Play O
+chant B-music_item
+'s O
+from O
+1973 B-year
+. O
+
+Play O
+something O
+from O
+90s B-playlist
+Pop I-playlist
+Rock I-playlist
+Essentials I-playlist
+
+Play O
+Have B-track
+You I-track
+Met I-track
+Miss I-track
+Jones I-track
+by O
+Nicole B-artist
+from O
+Google B-service
+Music I-service
+. O
+
+play O
+chant B-music_item
+by O
+Nigger B-artist
+Kojak I-artist
+on O
+Itunes B-service
+
+Play O
+some O
+sixties B-year
+songs O
+on O
+Google B-service
+Music I-service
+
+Play O
+a O
+fifties B-year
+album B-music_item
+from O
+Dj B-artist
+Yoda I-artist
+on O
+Last B-service
+Fm I-service
+. O
+
+Please O
+play O
+my O
+ecstatic B-playlist
+playlist. O
+
+Open O
+deezer B-service
+and O
+play O
+Curtain B-album
+Call: I-album
+The I-album
+Hits I-album
+by O
+Junichi B-artist
+Okada I-artist
+. O
+
+Let's O
+play O
+Jamie B-artist
+Robertson I-artist
+'s O
+Handover B-album
+on O
+vimeo B-service
+
+play O
+a O
+sixties B-year
+soundtrack B-music_item
+
+Play O
+This B-playlist
+Is: I-playlist
+Miles I-playlist
+Davis I-playlist
+on O
+Lastfm B-service
+. O
+
+Live B-album
+In I-album
+L.a I-album
+Joseph B-artist
+Meyer I-artist
+please O
+
+Play O
+the O
+top B-sort
+twenty I-sort
+Hisham B-artist
+Abbas I-artist
+on O
+Youtube B-service
+
+play O
+some O
+seventies B-year
+Filipp B-artist
+Kirkorow I-artist
+
+Play O
+the O
+most B-sort
+popular I-sort
+Puretone B-artist
+
+Play O
+music O
+from O
+E-type B-artist
+. O
+
+Can O
+you O
+play O
+A.j. B-artist
+Pero I-artist
+on O
+Groove B-service
+Shark I-service
+? O
+
+Play O
+a O
+Bob B-artist
+Burns I-artist
+song B-music_item
+
+I O
+want O
+to O
+hear O
+Leroi B-artist
+Moore I-artist
+on O
+vimeo B-service
+, O
+play O
+the O
+song B-music_item
+Chance B-track
+Of I-track
+A I-track
+Lifetime I-track
+. O
+
+Play O
+some O
+symphony B-music_item
+music O
+from O
+David B-artist
+Lindley I-artist
+. O
+
+Please O
+play O
+something O
+on O
+Iheart B-service
+from O
+artist O
+Ari B-artist
+Gold I-artist
+last B-sort
+album B-music_item
+
+I O
+want O
+to O
+hear O
+them B-music_item
+from O
+the O
+artist O
+Murcof B-artist
+
+Play O
+sound B-music_item
+track I-music_item
+music O
+from O
+the O
+twenties B-year
+
+Play O
+Dance B-track
+With I-track
+The I-track
+Devil I-track
+by O
+Mr. B-artist
+Lordi I-artist
+
+Play O
+music O
+from O
+1996 B-year
+. O
+
+Go O
+to O
+Itunes B-service
+and O
+play O
+Dr. B-album
+Lecter I-album
+by O
+David B-artist
+Hodges I-artist
+
+Play O
+S.t.r.e.e.t. B-album
+D.a.d I-album
+. O
+from O
+Hiromitsu B-artist
+Agatsuma I-artist
+through O
+Pandora B-service
+. O
+
+Play O
+some O
+movement B-music_item
+from O
+the O
+fourties B-year
+
+Please O
+tune B-music_item
+into O
+Chieko B-artist
+Ochi I-artist
+'s O
+good B-sort
+music O
+
+Play O
+the O
+greatest B-sort
+music O
+from O
+Bryan B-artist
+Maclean I-artist
+. O
+
+Play O
+something O
+on O
+Last B-service
+Fm I-service
+
+Play O
+music O
+by O
+Joy B-artist
+Nilo I-artist
+. O
+
+play O
+some O
+Gary B-artist
+Lee I-artist
+Conner I-artist
+
+Play O
+music O
+by O
+Brian B-artist
+Chase I-artist
+. O
+
+Can O
+you O
+play O
+top B-sort
+Zvooq B-service
+by O
+Fink B-artist
+? O
+
+play O
+the O
+top-20 B-sort
+Nawang B-artist
+Khechog I-artist
+soundtrack B-music_item
+
+Let's O
+hear O
+stuff O
+from O
+Andrew B-artist
+Hewitt I-artist
+. O
+
+Play O
+a O
+good B-sort
+ep B-music_item
+from O
+the O
+eighties B-year
+by O
+Peter B-artist
+Murphy I-artist
+. O
+
+Play O
+Another B-album
+Passenger I-album
+from O
+Louis B-artist
+Nelson I-artist
+Delisle I-artist
+. O
+
+Play O
+the O
+top B-sort
+music O
+from O
+The B-artist
+Railway I-artist
+Children I-artist
+off O
+Last B-service
+Fm I-service
+. O
+
+play O
+the O
+best B-sort
+Becca B-artist
+
+Play O
+something O
+by O
+Duke B-artist
+Ellington I-artist
+from O
+the O
+seventies B-year
+
+Use O
+the O
+last B-service
+fm I-service
+service O
+to O
+play O
+A B-playlist
+Mis I-playlist
+Ninos I-playlist
+de I-playlist
+30 I-playlist
+
+Play O
+my O
+Black B-playlist
+Sabbath: I-playlist
+The I-playlist
+Dio I-playlist
+Years I-playlist
+playlist. O
+
+Play O
+an O
+ep B-music_item
+from O
+Mike B-artist
+Harding I-artist
+. O
+
+I O
+want O
+to O
+hear O
+anything O
+from O
+the O
+Rock B-genre
+Symphonique I-genre
+genre O
+please. O
+
+Please O
+play O
+a O
+1997 B-year
+record B-music_item
+. O
+
+Put O
+What B-album
+Color I-album
+Is I-album
+Your I-album
+Sky I-album
+by O
+Alana B-artist
+Davis I-artist
+on O
+the O
+stereo. O
+
+Please O
+play O
+a O
+movement B-music_item
+from O
+george B-artist
+formby I-artist
+jr I-artist
+. O
+
+play O
+some O
+new B-sort
+Les B-artist
+Vandyke I-artist
+on O
+Slacker B-service
+
+Please O
+open O
+Zvooq B-service
+
+Play O
+Progressive B-genre
+Metal I-genre
+. O
+
+I O
+want O
+to O
+hear O
+soundtrack B-music_item
+music O
+on O
+Youtube B-service
+from O
+Helena B-artist
+Iren I-artist
+Michaelsen I-artist
+
+play O
+a O
+song B-music_item
+by O
+Ramesh B-artist
+Narayan I-artist
+from O
+1960 B-year
+
+Play O
+some O
+blues B-genre
+britanico I-genre
+. O
+
+Proceed O
+with O
+Hitomi B-artist
+Nabatame I-artist
+music O
+from O
+2003 B-year
+. O
+
+Play O
+something O
+on O
+Zvooq B-service
+
+Play O
+music O
+from O
+Lynn B-artist
+& I-artist
+Wade I-artist
+Llp I-artist
+. O
+
+Let O
+me O
+hear O
+Chris B-artist
+Knight I-artist
+music O
+
+Let's O
+hear O
+good B-sort
+Mohammad B-artist
+Mamle I-artist
+on O
+Vimeo B-service
+. O
+
+Please O
+play O
+a O
+sound B-music_item
+track I-music_item
+from O
+the O
+fifties B-year
+that's O
+on O
+Iheart B-service
+
+Play O
+Music B-album
+From I-album
+Van-pires I-album
+by O
+Dmitry B-artist
+Malikov I-artist
+. O
+
+Play O
+rich B-track
+sex I-track
+on O
+Iheart B-service
+
+Play O
+Modern B-playlist
+Psychedelia I-playlist
+. O
+

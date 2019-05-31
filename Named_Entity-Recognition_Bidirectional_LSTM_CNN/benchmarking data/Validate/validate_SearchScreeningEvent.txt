@@ -1,0 +1,972 @@
+Is O
+Babar: B-movie_name
+King I-movie_name
+of I-movie_name
+the I-movie_name
+Elephants I-movie_name
+playing O
+
+Is O
+The B-movie_name
+Ghost I-movie_name
+playing O
+
+Is O
+Bartok B-movie_name
+the I-movie_name
+Magnificent I-movie_name
+playing O
+at O
+seven B-timeRange
+AM I-timeRange
+? O
+
+What's O
+the O
+movie B-object_type
+schedule I-object_type
+
+i O
+want O
+to O
+see O
+JLA B-movie_name
+Adventures: I-movie_name
+Trapped I-movie_name
+In I-movie_name
+Time I-movie_name
+
+when O
+is O
+The B-movie_name
+Fox I-movie_name
+and I-movie_name
+the I-movie_name
+Child I-movie_name
+playing O
+in O
+this O
+cinema B-object_location_type
+
+show O
+me O
+the O
+schedule B-object_type
+for O
+Rat B-movie_name
+Rod I-movie_name
+Rockers I-movie_name
+! O
+
+Is O
+Any B-movie_name
+Which I-movie_name
+Way I-movie_name
+You I-movie_name
+Can I-movie_name
+playing O
+in B-timeRange
+15 I-timeRange
+seconds I-timeRange
+
+I O
+want O
+to O
+see O
+The B-movie_name
+Portrait I-movie_name
+of I-movie_name
+a I-movie_name
+Lady I-movie_name
+at O
+the O
+nearest B-spatial_relation
+cinema B-object_location_type
+. O
+
+Where O
+can O
+I O
+see O
+The B-movie_name
+Prime I-movie_name
+Ministers: I-movie_name
+The I-movie_name
+Pioneers I-movie_name
+
+I O
+need O
+to O
+find O
+the O
+movie B-object_location_type
+theatre I-object_location_type
+showing O
+The B-movie_name
+Crooked I-movie_name
+Web I-movie_name
+closest B-spatial_relation
+to O
+me O
+
+I O
+want O
+to O
+see O
+While B-movie_name
+the I-movie_name
+Sun I-movie_name
+Shines I-movie_name
+at O
+the O
+closest B-spatial_relation
+movie B-object_location_type
+house I-object_location_type
+. O
+
+I O
+want O
+to O
+see O
+Those B-movie_name
+Kids I-movie_name
+from I-movie_name
+Town I-movie_name
+, O
+when O
+will O
+it O
+be O
+showing? O
+
+Find O
+the O
+schedule B-object_type
+for O
+The B-movie_name
+Comedian I-movie_name
+at O
+Santikos B-location_name
+Theatres I-location_name
+. O
+
+What O
+are O
+the O
+movie B-object_type
+schedules I-object_type
+for O
+my O
+favorite O
+theaters B-location_name
+
+What O
+are O
+the O
+movies B-movie_type
+showing O
+in B-spatial_relation
+the I-spatial_relation
+neighbourhood I-spatial_relation
+
+Is O
+Without B-movie_name
+Witness I-movie_name
+playing O
+twenty B-timeRange
+two I-timeRange
+hours I-timeRange
+from I-timeRange
+now I-timeRange
+
+I O
+need O
+animated B-movie_type
+movies I-movie_type
+in B-spatial_relation
+the I-spatial_relation
+area I-spatial_relation
+for O
+dinner B-timeRange
+time O
+
+i O
+want O
+to O
+see O
+I B-movie_name
+Dream I-movie_name
+of I-movie_name
+Jeanie I-movie_name
+in O
+a O
+movie B-object_location_type
+theatre I-object_location_type
+
+Can O
+I O
+see O
+Ellis B-movie_name
+Island I-movie_name
+Revisited I-movie_name
+in B-timeRange
+1 I-timeRange
+minute I-timeRange
+
+I O
+want O
+animated B-movie_type
+movies I-movie_type
+at O
+MJR B-location_name
+Theatres I-location_name
+
+show O
+me O
+the O
+schedule B-object_type
+for O
+The B-movie_name
+Oblong I-movie_name
+Box I-movie_name
+
+I O
+want O
+to O
+know O
+if O
+there O
+are O
+any O
+movies B-movie_type
+playing O
+in B-spatial_relation
+the I-spatial_relation
+area I-spatial_relation
+. O
+
+Is O
+What B-movie_name
+a I-movie_name
+Wonderful I-movie_name
+Place I-movie_name
+showing O
+at O
+Cinemark B-location_name
+Theatres I-location_name
+
+show O
+the O
+closest B-spatial_relation
+movie B-object_location_type
+theatre I-object_location_type
+that O
+shows O
+Boycott B-movie_name
+
+I O
+want O
+to O
+see O
+DOA: B-movie_name
+Dead I-movie_name
+or I-movie_name
+Alive I-movie_name
+at O
+Loews B-location_name
+Cineplex I-location_name
+Entertainment I-location_name
+. O
+
+is O
+The B-movie_name
+Nightmare I-movie_name
+showing O
+six B-timeRange
+hours I-timeRange
+from I-timeRange
+now I-timeRange
+at O
+the O
+nearest B-spatial_relation
+cinema B-object_location_type
+. O
+
+What O
+is O
+the O
+nearest B-spatial_relation
+movie B-object_location_type
+house I-object_location_type
+with O
+Window B-movie_name
+Connection I-movie_name
+playing O
+at O
+lunch B-timeRange
+
+Is O
+Patrick B-movie_name
+Still I-movie_name
+Lives I-movie_name
+showing O
+at O
+AMC B-location_name
+Theaters I-location_name
+
+Fine O
+the O
+movie B-object_type
+schedules I-object_type
+for O
+the O
+Wanda B-location_name
+Group I-location_name
+. O
+
+Give O
+me O
+the O
+movie B-object_type
+schedule I-object_type
+nearby B-spatial_relation
+
+Find O
+the O
+schedule B-object_type
+at O
+the O
+Douglas B-location_name
+Theatre I-location_name
+Company I-location_name
+. O
+
+Show O
+me O
+the O
+movies B-movie_type
+at O
+Harkins B-location_name
+Theatres I-location_name
+. O
+
+what O
+movies B-movie_type
+at O
+Star B-location_name
+Theatres I-location_name
+. O
+
+I O
+want O
+a O
+movie B-object_type
+schedule I-object_type
+. O
+
+Can O
+I O
+get O
+the O
+movie B-object_type
+times I-object_type
+
+I O
+want O
+to O
+see O
+Medal B-movie_name
+for I-movie_name
+the I-movie_name
+General I-movie_name
+
+Can O
+I O
+get O
+the O
+times B-object_type
+for O
+movies B-movie_type
+in B-spatial_relation
+the I-spatial_relation
+neighbourhood I-spatial_relation
+
+May O
+I O
+have O
+the O
+movie B-object_type
+schedules I-object_type
+for O
+Speakeasy B-location_name
+Theaters I-location_name
+
+Find O
+animated B-movie_type
+movies I-movie_type
+close B-spatial_relation
+by I-spatial_relation
+
+Is O
+American B-movie_name
+Primitive I-movie_name
+showing O
+in O
+Santikos B-location_name
+Theatres I-location_name
+
+what O
+are O
+the O
+movie B-object_type
+schedules I-object_type
+in B-spatial_relation
+the I-spatial_relation
+neighborhood I-spatial_relation
+
+Check O
+the O
+schedule B-object_type
+for O
+Bow B-location_name
+Tie I-location_name
+Cinemas I-location_name
+. O
+
+Check O
+the O
+timings O
+for O
+Snowbound B-movie_name
+at O
+the O
+closest B-spatial_relation
+movie B-object_location_type
+theatre I-object_location_type
+. O
+
+What O
+are O
+the O
+movie B-object_type
+times I-object_type
+at O
+Caribbean B-location_name
+Cinemas I-location_name
+
+I O
+need O
+films B-movie_type
+in B-spatial_relation
+the I-spatial_relation
+neighborhood I-spatial_relation
+
+Show O
+the O
+movie B-object_type
+schedules I-object_type
+in B-spatial_relation
+the I-spatial_relation
+neighborhood I-spatial_relation
+
+where's O
+the O
+nearest B-spatial_relation
+movie B-object_location_type
+house I-object_location_type
+showing O
+foreign O
+films B-movie_type
+
+What O
+movies B-movie_type
+are O
+showing O
+now B-timeRange
+at O
+the O
+closest B-spatial_relation
+cinema B-object_location_type
+? O
+
+Is O
+Rumor B-movie_name
+Has I-movie_name
+It I-movie_name
+playing O
+
+I O
+need O
+a O
+list O
+of O
+Speakeasy B-location_name
+Theaters I-location_name
+movie B-object_type
+times I-object_type
+
+When O
+is O
+The B-movie_name
+Outer I-movie_name
+Space I-movie_name
+Connection I-movie_name
+playing O
+at O
+the O
+nearest B-spatial_relation
+cinema B-object_location_type
+. O
+
+Find O
+the O
+movie B-object_type
+times I-object_type
+at O
+Harkins B-location_name
+Theatres I-location_name
+. O
+
+Find O
+the O
+films B-movie_type
+at O
+Century B-location_name
+Theatres I-location_name
+. O
+
+show O
+the O
+animated B-movie_type
+movies I-movie_type
+playing O
+in B-spatial_relation
+the I-spatial_relation
+neighbourhood I-spatial_relation
+
+I O
+want O
+to O
+see O
+Fear B-movie_name
+Chamber I-movie_name
+. O
+
+Show O
+me O
+Southern B-location_name
+Theatres I-location_name
+movie B-object_type
+times I-object_type
+
+Is O
+The B-movie_name
+Unnaturals I-movie_name
+showing O
+at O
+13 B-timeRange
+. O
+
+Is O
+No B-movie_name
+Time I-movie_name
+to I-movie_name
+Be I-movie_name
+Young I-movie_name
+showing O
+at O
+AMC B-location_name
+Theaters I-location_name
+
+Find O
+the O
+movie B-object_type
+schedules I-object_type
+for O
+Regal B-location_name
+Entertainment I-location_name
+Group I-location_name
+. O
+
+I O
+want O
+to O
+see O
+Shattered B-movie_name
+Image I-movie_name
+. O
+
+Find O
+the O
+schedule B-object_type
+at O
+Star B-location_name
+Theatres I-location_name
+. O
+
+Will O
+I B-movie_name
+Think I-movie_name
+I I-movie_name
+Do I-movie_name
+be O
+playing O
+at O
+7 B-timeRange
+PM I-timeRange
+? O
+
+Show O
+me O
+the O
+schedule B-object_type
+for O
+ArcLight B-location_name
+Hollywood I-location_name
+for O
+only O
+animated B-movie_type
+movies I-movie_type
+
+Find O
+the O
+schedule B-object_type
+for O
+Great B-movie_name
+Mail I-movie_name
+Robbery I-movie_name
+. O
+
+Give O
+me O
+the O
+movies B-movie_type
+in B-spatial_relation
+the I-spatial_relation
+neighborhood I-spatial_relation
+
+What O
+movies B-movie_type
+are O
+playing O
+close B-spatial_relation
+by I-spatial_relation
+
+Is O
+The B-movie_name
+Two I-movie_name
+Gladiators I-movie_name
+playing O
+
+What's O
+the O
+movie B-object_type
+schedule I-object_type
+for O
+Great B-location_name
+Escape I-location_name
+Theatres I-location_name
+
+Find O
+the O
+movie B-object_type
+schedule I-object_type
+close B-spatial_relation
+by I-spatial_relation
+
+I O
+want O
+to O
+see O
+Outcast B-movie_name
+. O
+
+show O
+me O
+the O
+schedule B-object_type
+of O
+movie O
+The B-movie_name
+Great I-movie_name
+Gildersleeve I-movie_name
+near O
+movie B-object_location_type
+house I-object_location_type
+
+I O
+need O
+times B-object_type
+for O
+A B-movie_name
+Yiddish I-movie_name
+World I-movie_name
+Remembered I-movie_name
+at O
+Dipson B-location_name
+Theatres I-location_name
+
+Find O
+the O
+movie B-object_type
+schedules I-object_type
+at O
+Goodrich B-location_name
+Quality I-location_name
+Theaters I-location_name
+. O
+
+show O
+me O
+the O
+movie B-object_type
+schedule I-object_type
+in B-spatial_relation
+the I-spatial_relation
+neighbourhood I-spatial_relation
+
+show O
+me O
+the O
+movie B-object_type
+times I-object_type
+for O
+films B-movie_type
+nearby B-spatial_relation
+
+show O
+the O
+movie B-object_type
+times I-object_type
+for O
+animated B-movie_type
+movies I-movie_type
+in B-spatial_relation
+the I-spatial_relation
+neighbourhood I-spatial_relation
+
+Is O
+The B-movie_name
+Eye I-movie_name
+- I-movie_name
+Infinity I-movie_name
+playing O
+at O
+General B-location_name
+Cinema I-location_name
+Corporation I-location_name
+
+Can O
+you O
+check O
+the O
+timings O
+for O
+Super B-movie_name
+Sweet I-movie_name
+16: I-movie_name
+The I-movie_name
+Movie I-movie_name
+? O
+
+is O
+We B-movie_name
+Are I-movie_name
+Northern I-movie_name
+Lights I-movie_name
+playing O
+in O
+any O
+movie B-object_location_type
+theatre I-object_location_type
+
+What O
+times B-object_type
+will O
+The B-movie_name
+Young I-movie_name
+Swordsman I-movie_name
+be O
+showing O
+at O
+my O
+cinema B-object_location_type
+? O
+
+Show O
+the O
+Sexy B-movie_name
+Dance I-movie_name
+2 I-movie_name
+times B-object_type
+at O
+the O
+closest B-spatial_relation
+movie B-object_location_type
+house I-object_location_type
+
+what O
+are O
+some O
+close B-spatial_relation
+by I-spatial_relation
+animated B-movie_type
+movies I-movie_type
+showing O
+
+movie B-object_type
+schedules I-object_type
+close B-spatial_relation
+by I-spatial_relation
+for O
+animated B-movie_type
+movies I-movie_type
+
+what O
+films B-movie_type
+are O
+playing O
+close B-spatial_relation
+by I-spatial_relation
+
+Find O
+the O
+movie B-object_type
+schedule I-object_type
+in B-spatial_relation
+the I-spatial_relation
+area I-spatial_relation
+. O
+
+Is O
+Cowboy B-movie_name
+Canteen I-movie_name
+playing O
+
+Is O
+Rare B-movie_name
+Birds I-movie_name
+showing O
+at O
+the O
+nearest B-spatial_relation
+movie B-object_location_type
+theatre I-object_location_type
+at O
+noon B-timeRange
+. O
+
+What O
+are O
+the O
+movie B-object_type
+times I-object_type
+
+Where O
+can O
+I O
+find O
+the O
+movie B-object_type
+schedules I-object_type
+
+Find O
+the O
+movie B-object_type
+schedule I-object_type
+for O
+North B-location_name
+American I-location_name
+Cinemas I-location_name
+in B-timeRange
+eleven I-timeRange
+seconds I-timeRange
+. O
+
+Find O
+the O
+nearest B-spatial_relation
+cinema B-object_location_type
+with O
+movies B-movie_type
+playing O
+
+what O
+are O
+the O
+movie B-object_type
+times I-object_type
+
+what O
+are O
+the O
+times B-object_type
+for O
+The B-movie_name
+Gingerbread I-movie_name
+Man I-movie_name
+
+What O
+films B-movie_type
+are O
+playing O
+close B-spatial_relation
+by I-spatial_relation
+
+Is O
+any O
+cinema B-object_location_type
+playing O
+The B-movie_name
+Spirit I-movie_name
+of I-movie_name
+Youth I-movie_name
+
+What O
+are O
+the O
+movie B-object_type
+times I-object_type
+for O
+animated B-movie_type
+movies I-movie_type
+in B-spatial_relation
+the I-spatial_relation
+neighbourhood I-spatial_relation
+
+What's O
+the O
+movie B-object_type
+schedule I-object_type
+at O
+Great B-location_name
+Escape I-location_name
+Theatres I-location_name
+
+Show O
+the O
+times B-object_type
+for O
+Cheers B-movie_name
+for I-movie_name
+Miss I-movie_name
+Bishop I-movie_name
+at O
+Dipson B-location_name
+Theatres I-location_name
+. O
+
+I O
+want O
+to O
+see O
+Married B-movie_name
+to I-movie_name
+the I-movie_name
+Enemy I-movie_name
+2 I-movie_name
+at O
+a O
+cinema B-object_location_type
+. O
+

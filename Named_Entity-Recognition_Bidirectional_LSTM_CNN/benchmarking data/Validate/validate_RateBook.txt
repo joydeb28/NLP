@@ -1,0 +1,935 @@
+rate O
+this B-object_select
+album B-object_type
+four B-rating_value
+out O
+of O
+6 B-best_rating
+stars B-rating_unit
+
+Give O
+this B-object_select
+textbook B-object_type
+four B-rating_value
+stars B-rating_unit
+. O
+
+rate O
+A B-object_name
+Twist I-object_name
+in I-object_name
+the I-object_name
+Tale I-object_name
+zero B-rating_value
+out O
+of O
+6 B-best_rating
+points B-rating_unit
+
+Rate O
+The B-object_name
+children I-object_name
+of I-object_name
+Niobe I-object_name
+1 B-rating_value
+out O
+of O
+6 B-best_rating
+points B-rating_unit
+. O
+
+Give O
+zero B-rating_value
+stars B-rating_unit
+to O
+Halo: B-object_name
+Ghosts I-object_name
+of I-object_name
+Onyx I-object_name
+
+give O
+this B-object_select
+novel B-object_type
+a O
+score O
+of O
+5 B-rating_value
+
+Give O
+the O
+current B-object_select
+series B-object_part_of_series_type
+four B-rating_value
+of O
+6 B-best_rating
+points B-rating_unit
+. O
+
+Give O
+4 B-rating_value
+out O
+of O
+6 B-best_rating
+points B-rating_unit
+to O
+The B-object_name
+Spirit I-object_name
+Ring I-object_name
+chronicle B-object_part_of_series_type
+
+Give O
+two B-rating_value
+stars B-rating_unit
+out O
+of O
+6 B-best_rating
+to O
+36 B-object_name
+Children I-object_name
+
+Rate O
+The B-object_name
+Sneetches I-object_name
+and I-object_name
+Other I-object_name
+Stories I-object_name
+a O
+three B-rating_value
+
+Rate O
+the O
+current B-object_select
+series B-object_part_of_series_type
+four B-rating_value
+stars B-rating_unit
+. O
+
+rate O
+this B-object_select
+book B-object_type
+a O
+4 B-rating_value
+out O
+of O
+6 B-best_rating
+
+rate O
+the O
+current B-object_select
+novel B-object_type
+5 B-rating_value
+of O
+6 B-best_rating
+stars B-rating_unit
+
+Rate O
+this B-object_select
+book B-object_type
+a O
+1 B-rating_value
+
+Give O
+zero B-rating_value
+out O
+of O
+6 B-best_rating
+to O
+the O
+current B-object_select
+album B-object_type
+
+Give O
+this B-object_select
+album B-object_type
+5 B-rating_value
+points B-rating_unit
+. O
+
+Rate O
+The B-object_name
+Mystery I-object_name
+of I-object_name
+the I-object_name
+Tolling I-object_name
+Bell I-object_name
+series B-object_part_of_series_type
+4 B-rating_value
+stars B-rating_unit
+. O
+
+Give O
+the O
+current B-object_select
+novel B-object_type
+two B-rating_value
+stars B-rating_unit
+. O
+
+Give O
+the O
+current B-object_select
+book B-object_type
+4 B-rating_value
+stars B-rating_unit
+
+Give O
+Joe B-object_name
+Magarac I-object_name
+and I-object_name
+His I-object_name
+USA I-object_name
+Citizen I-object_name
+Papers I-object_name
+5 B-rating_value
+points B-rating_unit
+
+Rate O
+The B-object_name
+Guilty I-object_name
+0 B-rating_value
+of O
+6 B-best_rating
+points B-rating_unit
+
+rate O
+this B-object_select
+textbook B-object_type
+four B-rating_value
+out O
+of O
+6 B-best_rating
+
+Give O
+the O
+Catedral B-object_name
+series B-object_part_of_series_type
+four B-rating_value
+stars B-rating_unit
+. O
+
+Reminiscences B-object_name
+of I-object_name
+the I-object_name
+Anti-Japanese I-object_name
+Guerillas I-object_name
+chronicle B-object_part_of_series_type
+deserves O
+zero B-rating_value
+points B-rating_unit
+out O
+of O
+6 B-best_rating
+for O
+a O
+rating. O
+
+Give O
+Small B-object_name
+Screen, I-object_name
+Big I-object_name
+Picture I-object_name
+a O
+0 B-rating_value
+out O
+of O
+6 B-best_rating
+rating. O
+
+Gods B-object_name
+and I-object_name
+Pawns I-object_name
+should O
+get O
+a O
+three B-rating_value
+
+Give O
+zero B-rating_value
+stars B-rating_unit
+to O
+this B-object_select
+textbook B-object_type
+
+Rate O
+the O
+current B-object_select
+novel B-object_type
+a O
+4 B-rating_value
+out O
+of O
+6 B-best_rating
+stars B-rating_unit
+. O
+
+Rate O
+the O
+book B-object_type
+The B-object_name
+Atmospheric I-object_name
+Railway I-object_name
+5 B-rating_value
+out O
+of O
+6 B-best_rating
+
+rate O
+Black B-object_name
+Boy I-object_name
+4 B-rating_value
+out O
+of O
+6 B-best_rating
+
+Rate O
+the O
+chronicle B-object_part_of_series_type
+current B-object_select
+1 B-rating_value
+star O
+
+mark O
+this B-object_select
+album B-object_type
+a O
+score O
+of O
+5 B-rating_value
+
+rate O
+the O
+current B-object_select
+novel B-object_type
+zero B-rating_value
+out O
+of O
+6 B-best_rating
+
+rate O
+the O
+current B-object_select
+novel B-object_type
+a O
+2 B-rating_value
+
+Give O
+The B-object_name
+Giant I-object_name
+Devil I-object_name
+Dingo I-object_name
+4 B-rating_value
+points B-rating_unit
+. O
+
+Rate O
+this B-object_select
+current I-object_select
+novel B-object_type
+two B-rating_value
+out O
+of O
+6 B-best_rating
+. O
+
+Give O
+Monthly B-object_name
+Index I-object_name
+of I-object_name
+Medical I-object_name
+Specialities I-object_name
+a O
+two B-rating_value
+out O
+of O
+6 B-best_rating
+rating. O
+
+rate O
+this B-object_select
+novel B-object_type
+2 B-rating_value
+out O
+of O
+6 B-best_rating
+points B-rating_unit
+
+Rate O
+the O
+current B-object_select
+novel B-object_type
+3 B-rating_value
+stars B-rating_unit
+
+rate O
+the O
+current B-object_select
+essay B-object_type
+zero B-rating_value
+out O
+of O
+6 B-best_rating
+stars B-rating_unit
+
+rate O
+this B-object_select
+current I-object_select
+album B-object_type
+0 B-rating_value
+stars B-rating_unit
+
+Give O
+A B-object_name
+Brief I-object_name
+Stop I-object_name
+on I-object_name
+the I-object_name
+Road I-object_name
+from I-object_name
+Auschwitz I-object_name
+1 B-rating_value
+out O
+of O
+6 B-best_rating
+stars B-rating_unit
+
+Rate O
+this B-object_select
+album B-object_type
+4 B-rating_value
+out O
+of O
+6 B-best_rating
+stars B-rating_unit
+
+Rate O
+Hate B-object_name
+That I-object_name
+Cat I-object_name
+1 B-rating_value
+out O
+of O
+6 B-best_rating
+stars B-rating_unit
+. O
+
+give O
+my O
+current B-object_select
+book B-object_type
+one B-rating_value
+of O
+6 B-best_rating
+stars B-rating_unit
+
+Rate O
+current B-object_select
+novel B-object_type
+one B-rating_value
+stars B-rating_unit
+. O
+
+Give O
+five B-rating_value
+out O
+of O
+6 B-best_rating
+points B-rating_unit
+to O
+this B-object_select
+album B-object_type
+
+Give O
+a O
+rating O
+of O
+2 B-rating_value
+to O
+Juneteenth B-object_name
+. O
+
+Rate O
+Ruth B-object_name
+five B-rating_value
+out O
+of O
+6 B-best_rating
+points B-rating_unit
+. O
+
+rate O
+The B-object_name
+Sea I-object_name
+of I-object_name
+Trolls I-object_name
+1 B-rating_value
+stars B-rating_unit
+out O
+of O
+6 B-best_rating
+
+give O
+The B-object_name
+Zenith I-object_name
+Angle I-object_name
+one B-rating_value
+out O
+of O
+6 B-best_rating
+points B-rating_unit
+
+Give O
+zero B-rating_value
+stars B-rating_unit
+to O
+Rhialto B-object_name
+the I-object_name
+Marvellous I-object_name
+
+give O
+the O
+current B-object_select
+book B-object_type
+a O
+zero B-rating_value
+of O
+6 B-best_rating
+
+rate O
+Personal B-object_name
+Demons I-object_name
+0 B-rating_value
+out O
+of O
+6 B-best_rating
+points B-rating_unit
+
+Rate O
+the O
+current B-object_select
+series B-object_part_of_series_type
+a O
+4 B-rating_value
+
+Give O
+one B-rating_value
+of O
+6 B-best_rating
+points B-rating_unit
+to O
+Who B-object_name
+Will I-object_name
+Cry I-object_name
+When I-object_name
+You I-object_name
+Die I-object_name
+
+Give O
+zero B-rating_value
+out O
+of O
+6 B-best_rating
+stars B-rating_unit
+to O
+this B-object_select
+album B-object_type
+
+Give O
+this B-object_select
+novel B-object_type
+2 B-rating_value
+stars B-rating_unit
+
+Rate O
+The B-object_name
+8-Week I-object_name
+Cholesterol I-object_name
+Cure I-object_name
+three B-rating_value
+out O
+of O
+6 B-best_rating
+. O
+
+rate O
+this B-object_select
+novel B-object_type
+3 B-rating_value
+out O
+of O
+6 B-best_rating
+points B-rating_unit
+
+rate O
+The B-object_name
+Lives I-object_name
+of I-object_name
+John I-object_name
+Lennon I-object_name
+five B-rating_value
+points B-rating_unit
+
+Give O
+The B-object_name
+American I-object_name
+Scene I-object_name
+2 B-rating_value
+of O
+6 B-best_rating
+stars B-rating_unit
+
+Rate O
+this B-object_select
+textbook B-object_type
+a O
+one B-rating_value
+. O
+
+Give O
+Summer B-object_name
+of I-object_name
+the I-object_name
+Swans I-object_name
+1 B-rating_value
+points B-rating_unit
+. O
+
+Give O
+the O
+current B-object_select
+textbook B-object_type
+a O
+rating O
+of O
+five B-rating_value
+. O
+
+Give O
+4 B-rating_value
+points B-rating_unit
+to O
+The B-object_name
+Person I-object_name
+and I-object_name
+the I-object_name
+Common I-object_name
+Good I-object_name
+
+Give O
+a O
+four B-rating_value
+rating O
+to O
+A B-object_name
+World I-object_name
+Apart I-object_name
+. O
+
+rate O
+this B-object_select
+chronicle B-object_part_of_series_type
+0 B-rating_value
+points B-rating_unit
+
+Give O
+Wilco: B-object_name
+Learning I-object_name
+How I-object_name
+to I-object_name
+Die I-object_name
+a O
+rating O
+of O
+four B-rating_value
+points B-rating_unit
+. O
+
+Rate O
+this B-object_select
+saga B-object_part_of_series_type
+two B-rating_value
+out O
+of O
+6 B-best_rating
+. O
+
+rate O
+The B-object_name
+Gift: I-object_name
+Imagination I-object_name
+and I-object_name
+the I-object_name
+Erotic I-object_name
+Life I-object_name
+of I-object_name
+Property I-object_name
+five B-rating_value
+stars B-rating_unit
+
+rate O
+Neverwhere B-object_name
+four B-rating_value
+out O
+of O
+6 B-best_rating
+
+Rate O
+In B-object_name
+the I-object_name
+Company I-object_name
+of I-object_name
+Cheerful I-object_name
+Ladies I-object_name
+a O
+zero B-rating_value
+out O
+of O
+6 B-best_rating
+
+Give O
+one B-rating_value
+start O
+to O
+the O
+current B-object_select
+book B-object_type
+
+Give O
+this B-object_select
+chronicle B-object_part_of_series_type
+a O
+2 B-rating_value
+rating. O
+
+rate O
+this B-object_select
+essay B-object_type
+a O
+1 B-rating_value
+
+Out O
+of O
+6 B-best_rating
+, O
+give O
+Rivers B-object_name
+of I-object_name
+Babylon I-object_name
+a O
+1 B-rating_value
+
+Give O
+5 B-rating_value
+of O
+6 B-best_rating
+stars B-rating_unit
+to O
+Expressive B-object_name
+Processing I-object_name
+
+rate O
+The B-object_name
+Ghost I-object_name
+House I-object_name
+series B-object_part_of_series_type
+a O
+one B-rating_value
+
+rate O
+Know B-object_name
+Ye I-object_name
+Not I-object_name
+Agincourt I-object_name
+? O
+2 B-rating_value
+out O
+of O
+6 B-best_rating
+stars B-rating_unit
+
+I O
+would O
+rate O
+Theft: B-object_name
+A I-object_name
+Love I-object_name
+Story I-object_name
+four B-rating_value
+out O
+of O
+6 B-best_rating
+stars B-rating_unit
+. O
+
+Rate O
+The B-object_name
+Further I-object_name
+Adventures I-object_name
+of I-object_name
+The I-object_name
+Joker I-object_name
+four B-rating_value
+stars B-rating_unit
+
+Give O
+0 B-rating_value
+rating O
+to O
+In B-object_name
+the I-object_name
+Heart I-object_name
+of I-object_name
+the I-object_name
+Country I-object_name
+
+Give O
+1 B-rating_value
+out O
+of O
+6 B-best_rating
+rating O
+to O
+the O
+current B-object_select
+textbook B-object_type
+
+give O
+the O
+current B-object_select
+chronicle B-object_part_of_series_type
+five B-rating_value
+of O
+6 B-best_rating
+points B-rating_unit
+
+Rate O
+Cotton B-object_name
+Comes I-object_name
+to I-object_name
+Harlem I-object_name
+a O
+2 B-rating_value
+
+Give O
+this B-object_select
+album B-object_type
+one B-rating_value
+stars B-rating_unit
+
+rate O
+The B-object_name
+Adventures I-object_name
+of I-object_name
+Augie I-object_name
+March I-object_name
+one B-rating_value
+points B-rating_unit
+
+Rate O
+Soul B-object_name
+Music I-object_name
+a O
+0 B-rating_value
+. O
+
+Give O
+Hindu B-object_name
+Temples: I-object_name
+What I-object_name
+Happened I-object_name
+to I-object_name
+Them I-object_name
+a O
+5 B-rating_value
+out O
+of O
+6 B-best_rating
+stars B-rating_unit
+. O
+
+Give O
+this B-object_select
+novel B-object_type
+a O
+1 B-rating_value
+. O
+
+rate O
+the O
+current B-object_select
+textbook B-object_type
+1 B-rating_value
+out O
+of O
+6 B-best_rating
+
+Give O
+this B-object_select
+textbook B-object_type
+0 B-rating_value
+out O
+of O
+6 B-best_rating
+stars B-rating_unit
+
+Give O
+The B-object_name
+Crystal I-object_name
+Snare I-object_name
+5 B-rating_value
+stars B-rating_unit
+
+Rate O
+this B-object_select
+saga B-object_part_of_series_type
+two B-rating_value
+out O
+of O
+6 B-best_rating
+. O
+
+Give O
+Wilco: B-object_name
+Learning I-object_name
+How I-object_name
+to I-object_name
+Die I-object_name
+a O
+rating O
+of O
+four B-rating_value
+points B-rating_unit
+. O
+
+Rate O
+this B-object_select
+book B-object_type
+3 B-rating_value
+stars B-rating_unit
+out O
+of O
+6 B-best_rating
+
+rate O
+the O
+Three B-object_name
+Junes I-object_name
+one B-rating_value
+out O
+of O
+6 B-best_rating
+
+Give O
+four B-rating_value
+stars B-rating_unit
+to O
+The B-object_name
+Broken I-object_name
+Window I-object_name
+
+Rate O
+the O
+current B-object_select
+series B-object_part_of_series_type
+4 B-rating_value
+points B-rating_unit
+
