@@ -3,7 +3,7 @@ from os import listdir
 from os.path import isfile, join
 import numpy as np
 
-nlp = spacy.load('en')
+nlp = spacy.load('en_core_web_sm')
 print("Loaded Vectorizer.")
 
 data_path = 'data/intent_classes/'
